@@ -1,0 +1,85 @@
+G:\Projects\WebApp MVC\WebApp MVC\bin\WebApp MVC.dll.config
+G:\Projects\WebApp MVC\WebApp MVC\bin\WebApp MVC.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\WebApp MVC.pdb
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\csc.exe
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\csc.exe.config
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\csc.rsp
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\csi.exe
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\csi.exe.config
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\csi.rsp
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.AppContext.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Collections.Immutable.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Console.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Globalization.Calendars.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.IO.Compression.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.IO.FileSystem.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Net.Http.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Net.Sockets.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Reflection.Metadata.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.ValueTuple.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Xml.XPath.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\vbc.exe
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\vbc.exe.config
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\vbc.rsp
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\VBCSCompiler.exe
+G:\Projects\WebApp MVC\WebApp MVC\bin\roslyn\VBCSCompiler.exe.config
+G:\Projects\WebApp MVC\WebApp MVC\bin\Antlr3.Runtime.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\Microsoft.Web.Infrastructure.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\Newtonsoft.Json.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.Helpers.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.Mvc.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.Optimization.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.Razor.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.WebPages.Deployment.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.WebPages.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.WebPages.Razor.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\WebGrease.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.Helpers.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.Mvc.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.Optimization.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.Razor.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.WebPages.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.WebPages.Deployment.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\System.Web.WebPages.Razor.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\Newtonsoft.Json.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\Antlr3.Runtime.pdb
+G:\Projects\WebApp MVC\WebApp MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Projects\WebApp MVC\WebApp MVC\obj\Debug\WebApp MVC.csproj.AssemblyReference.cache
+G:\Projects\WebApp MVC\WebApp MVC\obj\Debug\WebApp MVC.csproj.CoreCompileInputs.cache
+G:\Projects\WebApp MVC\WebApp MVC\obj\Debug\WebApp MVC.csproj.CopyComplete
+G:\Projects\WebApp MVC\WebApp MVC\obj\Debug\WebApp MVC.dll
+G:\Projects\WebApp MVC\WebApp MVC\obj\Debug\WebApp MVC.pdb
+G:\Projects\WebApp MVC\WebApp MVC\bin\Dapper.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\EntityFramework.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\EntityFramework.SqlServer.dll
+G:\Projects\WebApp MVC\WebApp MVC\bin\Dapper.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\EntityFramework.xml
+G:\Projects\WebApp MVC\WebApp MVC\bin\EntityFramework.SqlServer.xml

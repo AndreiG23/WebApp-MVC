@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Welcome to Student Page</h2>
+<br />
+Corona source is @TempData["SourceOfCorona"]
+
+@{
+    TempData.Keep("SourceOfCorona");
+}
+

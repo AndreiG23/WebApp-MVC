@@ -1,0 +1,39 @@
+﻿@model WebApp_MVC.Models.Article
+@{
+    string imagePath = "~/Content/pictures/";
+}
+
+<head>
+    <link rel="stylesheet" href="~/Content/bootstrap-themed.min.css" type="text/css" />
+    <link rel="stylesheet" href="~/Content/blogsite.css" type="text/css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="jumbotron text-white bg-primary">
+                <a href="@Url.Action("Index", "Home")" style="color:white" ><h1 class="display-3">@ViewBag.Title</h1></a>
+                <p class="lead">@ViewBag.SubTitle</p>
+            </div>
+        </div>
+    </header>
+    <main role="main" class="container blog-post-detail">
+        <div class="row">
+            <div class="blog-post-detail-card card col-lg-12">
+                <img class="card-img-top" src="@Url.Content(imagePath+Model.imagePath)" alt="Card image cap">
+                <div class="card-body bg-light">
+                    <strong class="d-inline-block mb-2 text-success">@Model.Category</strong>
+                    <h3 class="card-title">@Model.Name</h3>
+                    <div class="mb-1 text-muted">@Model.creationDate.ToString("MMM dd, yyyy")</div>
+                    <p>@Model.Content</p>
+                    <div class="blog-detail-tag-list">
+                        <span class="read-more-heading">Read more: </span>
+                        @foreach (var tag in Model.Tags)
+                        {
+                            <a class="btn btn-info" href="#" role="button">@tag</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>

@@ -1,0 +1,45 @@
+﻿@{
+    string imagePath = "~/Content/pictures/";
+
+}
+@model IEnumerable<WebApp_MVC.Models.Article>
+<head>
+    <link rel="stylesheet" href="~/Content/bootstrap-themed.min.css" type="text/css"/>
+    <link rel="stylesheet" href="~/Content/blogsite.css" type="text/css"/>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="jumbotron text-white bg-primary">
+                <h1 class="display-3">@ViewBag.Title</h1>
+                <p class="lead">@ViewBag.SubTitle</p>
+            </div>
+        </div>
+    </header>
+    <main role="main" class="container blog-posts">
+        <div class="main-search">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search this blog" />
+                <div class="input-group-append">
+                    <button type="button" class="btn btn-dark">Search</button>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            @foreach (WebApp_MVC.Models.Article item in Model)
+            {
+                <div class="blog-post-card card col-lg-4 col-md-6">
+                    <img class="card-img-top" src="@Url.Content(imagePath+item.imagePath)" alt="Card image cap" />
+                    <div class="card-body bg-light">
+                        <strong class="d-inline-block mb-2 text-success">@item.Category</strong>
+                        <h3 class="card-title">@item.Name</h3>
+                        <div class="mb-1 text-muted">@item.creationDate.Date.ToString("MMM dd, yyyy")</div>
+                        <p>@item.Description</p>
+                        <a href="@Url.Action("ReadOn","Home", new { id = item.ArticleId })" class="btn btn-warning btn-block">Read on</a>
+                    </div>
+                </div>
+            }
+        </div>
+    </main>
+</body>

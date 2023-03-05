@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "RazorDemo";
+}
+
+<h2>Razor Syntax Demo</h2>
+
+<h3>@DateTime.Now.ToString()</h3>
+
+<div>
+
+    @{
+        var date = DateTime.Now.ToString();
+        var message = "India is Great";
+
+        <text>Today's blocking date is: </text> @date
+    }
+
+    <h2>Today's Datetime is : @date  </h2>
+    <h2>Toda's message is @message </h2>
+
+    
+</div>
+
+
+<div>
+
+    @if(DateTime.IsLeapYear(DateTime.Now.Year))
+    {
+        @DateTime.Now.Year @: is leap year
+    }
+    else
+    {
+        @DateTime.Now.Year @: is NOT a leap year
+    }
+
+</div>
+
+<div>
+
+    @for(int i =1; i<11; i++)
+    {
+        @i.ToString() <br />
+    }
+
+</div>
+
+
+<div>
+
+    @ViewBag.Name <br />
+    @ViewBag.FlagColor <br />
+    @ViewBag.Capital
+
+
+</div>
+
+<div>
+    <br />
+    <h2> ViewData Demo </h2>
+    @ViewData["NumberOfOcean"] <br />
+    @ViewData["5thOcean"]
+
+</div>
+
+
